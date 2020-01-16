@@ -29,7 +29,7 @@ SSD类的网络都是prior anchor和网络输出的anchor进行解码运算。�
 
 	1. 终端切换到程序根目录
 
-   	2. cd cuda_lib && mkdir build && cmake .. && make
+   	2. cd cuda_lib && mkdir build && cd build && cmake .. && make
    	3. cd ../
    	4. mkdir build &&  cmake && make
 
