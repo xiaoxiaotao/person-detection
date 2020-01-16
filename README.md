@@ -31,7 +31,7 @@ SSD类的网络都是prior anchor和网络输出的anchor进行解码运算。�
 
    	2. cd cuda_lib && mkdir build && cd build && cmake .. && make
    	3. cd ../
-   	4. mkdir build &&  cd build && cmake && make
+   	4. mkdir build &&  cd build && cmake .. && make
 
 ### 注意事项：
 
