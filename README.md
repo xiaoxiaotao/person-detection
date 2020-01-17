@@ -21,9 +21,9 @@ SSD类的网络都是prior anchor和网络输出的anchor进行解码运算。�
 
 ​	4.CPU i5-8250
 
-5. GPU MX250
+​       5. GPU MX250
 
-6. opencv 3.4.6(CUDA)
+​       6. opencv 3.4.6(CUDA)
 
 ### 运行方法:
 
