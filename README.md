@@ -3,7 +3,7 @@ TensorRT person tracking RFBNet300
 
 ### 更新：
 加入sort跟踪
-### 首先声明，原始的pytorch程序是songwsx大佬的(https://github.com/songwsx/RFSong-7993.git)
+### 原始的pytorch程序(https://github.com/songwsx/RFSong-7993.git)
 
 ### 大体思路:
 
